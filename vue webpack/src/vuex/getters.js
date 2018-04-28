@@ -1,0 +1,1 @@
+/** * Created by Randy on 2017/5/31. */export default {    getChatList : function(state){        "use strict";        return state.chatList    },    getSelfMessage : function(state){        "use strict";        return state.selfMessage    },    getAsMessage : function(state){        "use strict";        return state.asMessage    }}

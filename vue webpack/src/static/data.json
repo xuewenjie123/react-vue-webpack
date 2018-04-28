@@ -1,0 +1,1 @@
+[  {    "id" : 0,    "name" : "张三",    "text" : "最近怎么样？",    "to" : "/message",    "imgSrc" : "src/assets/1.jpg"  },  {    "id" : 1,    "name" : "李四",    "text" : "吃饭了吗？",    "to" : "/message",    "imgSrc" : "src/assets/2.jpg"  },  {    "id" : 2,    "name" : "王五",    "text" : "睡觉了吗？",    "to" : "/message",    "imgSrc" : "src/assets/3.jpg"  }]

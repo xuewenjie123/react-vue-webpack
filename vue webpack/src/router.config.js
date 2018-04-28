@@ -1,0 +1,1 @@
+/** * Created by Randy on 2017/5/31. */import Chat from './pages/Chat.vue'import Message from './pages/Message.vue'export default [    {        path : '/',        name : 'chat',        component : Chat    },    {        path : '/message',        name : 'message',        component : Message    }]

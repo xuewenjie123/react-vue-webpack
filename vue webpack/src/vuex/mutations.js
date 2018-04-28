@@ -1,0 +1,1 @@
+/** * Created by Randy on 2017/5/31. */export default {    setChatList : function(state,data){        "use strict";        state.chatList = data    },    setAsMessage : function(state,data){        "use strict";        state.asMessage = data    },    setSelfMessage : function(state,data){        "use strict";        state.selfMessage = data    }}

@@ -1,0 +1,1 @@
+/** * Created by Randy on 2017/5/31. */export default {    chatList : [],    selfMessage :[],    asMessage : []}
